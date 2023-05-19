@@ -1,2 +1,2 @@
 # newsletter
-Newsletter - integração com noticias do G1
+Newsletter - integração com RSS de noticias
